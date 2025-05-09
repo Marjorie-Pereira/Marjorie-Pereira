@@ -100,11 +100,6 @@ Olá, me chamo Marjorie e atualmente sou estudante de Análise e Desenvolvimento
 
 <p>
   
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjorie-Pereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marjorie-Pereira)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
