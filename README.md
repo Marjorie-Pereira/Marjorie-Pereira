@@ -97,7 +97,4 @@ Olá, me chamo Marjorie e atualmente sou estudante de Análise e Desenvolvimento
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Marjorie-Pereira)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marjorie-Pereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
